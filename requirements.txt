@@ -1,1 +1,2 @@
-python==3.12.4
+torch==2.4
+pandas==2.2.2
